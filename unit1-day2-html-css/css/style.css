@@ -1,0 +1,74 @@
+
+body {
+    background-color:#efeee7;
+    font-family: Georgia,"Times New Roman",Times,serif;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color:black;
+    color:#eee;
+    text-align: center;
+    margin:0;
+    font-size: 28px;
+    padding:0;
+}
+
+header {
+    background-color: #333333;
+}
+
+.container {
+    width: 1024;
+    margin: 0 auto;
+}
+
+#main-bio {
+    width: 70%;
+    text-align: center;
+    margin-left:2em;
+    padding:0;
+    float: left;
+
+}
+
+#bio-image {
+    alt: "family christmas picture";
+    display: block;
+    float: left;
+    clear: both;
+    width: 200px;
+    margin: 0px;
+}
+
+#name {
+    text-align: left;
+    width: 100%;
+    clear: both;
+}
+
+#paragraph {
+    text-align: left;
+    float: left;
+    padding: 0;
+    margin-left: 5px;
+    line-height: 1.5;
+    width: 50%;
+}
+
+#contact-info {
+    float: left;
+    width: 25%;
+    /* margin-right: 2em; */
+}
+
+li {
+    font-weight: bold;
+}
+
+a {
+    font-weight: normal;
+    color: #d21034;
+}
